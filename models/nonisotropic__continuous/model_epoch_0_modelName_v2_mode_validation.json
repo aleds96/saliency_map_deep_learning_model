@@ -1,0 +1,36 @@
+{
+    "binary_pos_weight": 1,
+    "continuous_pos_weight": 2.24415307327844,
+    "binary_loss_weight": 0.5,
+    "continuous_loss_weight": 0.5,
+    "start_epoch": 0,
+    "end_epoch": 10,
+    "last_done_epoch": 0,
+    "train_loss": [
+        0.1769334816394715
+    ],
+    "eval_loss": [
+        0.11021996406418041
+    ],
+    "auc_roc_continuous": [
+        0.8532664808317452
+    ],
+    "auc_pr_continuous": [
+        0.01169456711143181
+    ],
+    "auc_pr_binary": [
+        []
+    ],
+    "auc_roc_binary": [
+        []
+    ],
+    "nss_continuous": [
+        1.414139747619629
+    ],
+    "nss_binary": [
+        []
+    ],
+    "sim_continuous": [
+        0.07791552692651749
+    ]
+}
